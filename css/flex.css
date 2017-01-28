@@ -1,0 +1,76 @@
+body {
+    font-family: roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #878787;
+    margin: 0;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-item {
+    color: ;
+    font-size: 1.2em;
+    padding: 1em;
+    text-align: center;
+    
+}
+
+header, nav {
+    background-color: lightgoldenrodyellow;
+}
+
+ul {
+    list-style-type: none;
+    margin: ;
+    padding: ;
+    width: ;
+    background-color: ;
+    text-align: center;
+}
+
+a {text-decoration: none;
+    color: #878787;
+}
+
+li a {
+    display: block;
+    color: ;
+    padding: 2px 6px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+a:hover {
+    background-color: ;
+    color: indianred;
+}
+
+h1 {
+    font-size: 50px;
+    color: red;
+}
+
+h2 {
+    font-size: ;
+}
+
+h3 {
+    font-size: ;
+    
+}
+
+
+
+p {
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: azure
+}
