@@ -1,7 +1,7 @@
 /* This file sets out the basic layout for all of the pages of swimtwobirds.nyc.
-Part I (from line 9) nullifies browser default layouts.
-Part II (from line xxx) replaces those default layouts with our layout.
-
+Part I nullifies browser default layouts.
+Part II (from line 475) sets out our layout.
+I have combined Parts I and II to reduce browser load time.
 */
 
 /* Part I */
@@ -469,9 +469,6 @@ template {
 [hidden] {
   display: none;
 }
-
-
-
 
 
 
